@@ -1,0 +1,1 @@
+Bu uygulamada test fonksiyonu olarak HÖLDER TABLE FUNCTİON kullandım.
